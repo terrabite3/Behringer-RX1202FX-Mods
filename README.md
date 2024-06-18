@@ -1,10 +1,18 @@
+# Behringer RX1202FX Mods
 
+This documents two mods I made to my mixer.
+
+For a video about this, see: https://www.youtube.com/watch?v=38bwDFGXL1Y
 
 ## TRS Main Out
 
 The XLR jacks of Main Out can be inconvenient when you would rather have TRS. It's simple to wire in a TRS jack in parallel.
 
 ![](trs_main_out.jpg)
+
+Here's the finished result.
+
+![](trs_main_out_completed.jpg)
 
 ## Channel Mute Switches
 
@@ -32,3 +40,9 @@ For each channel, you will separate one of the wires in the ribbon cable, cut it
 ![](mute_switch_wiring.jpg)
 
 The holes should be positioned as close as possible to the top. This allows the wall of the extrusion to prevent the inner nut from turning. They need to be drilled from the front because the shape of the extrusion interferes coming from the back. The nuts for the toggle switches are 8mm between flats, and the top wall of the extrusion is 1.45mm. So the hole should be 5.45mm from the top of the front panel, measured from the outside. 5.50mm should also be fine. The holes should be 1/4" or 6.35mm.
+
+Here's the finished result.
+
+![](mute_switch_completed.jpg)
+
+![](mute_switch_outside.jpg)
